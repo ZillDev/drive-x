@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/usmanmughalji/py-bot.git",
-    "website": "https://github.com/usmanmughalji/py-bot/tree/master",
-    "success_url": "https://github.com/usmanmughalji/py-bot/blob/master/README.md",
+    "repository": "https://github.com/ZillDev/drive-x.git",
+    "website": "https://github.com/ZillDev/drive-x/tree/master",
+    "success_url": "https://github.com/ZillDev/drive-x/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
